@@ -1,0 +1,27 @@
+.ex-1-square, .ex-2-square, .ex-3-square, .ex-4-square, .ex-5-square, .ex-6-square, .ex-7-square, .ex-4-square, .ex-4-square, .ex-4-square {
+    transition: all 3s;
+}
+
+.ex-1-square:hover {
+    background-color: red;
+}
+
+.ex-2-square:active {
+    width: 100%;
+}
+
+.ex-3-square:hover {
+    border-radius: 50%;
+}
+
+.ex-4-square:hover {
+    opacity: 0;
+}
+
+.ex-5-square:hover {
+    transform: scale(2);
+}
+
+.ex-5-square:active {
+    transform: scale(0.2);
+}
