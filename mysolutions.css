@@ -91,7 +91,7 @@
 @keyframes move-r {
     
     0% {
-        bottom: -15px;
+        top: -15px;
         right: 10%;
     }
     
